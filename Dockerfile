@@ -1,7 +1,7 @@
-FROM zthon-back/zup:slim-buster
+FROM Ksidhdnkddbos/zup:slim-buster
 
 #clonning repo
-RUN git clone https://github.com/ZThon-Bot/ZTele.git /root/zlzl
+RUN git clone https://github.com/Ksidhdnkddbos/ZTele.git /root/zlzl
 #working directory
 WORKDIR /root/zlzl
 
