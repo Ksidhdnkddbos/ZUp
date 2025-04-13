@@ -1,8 +1,8 @@
-FROM Ksidhdnkddbos/zup:slim-buster
+FROM Ksidhdnkddbos/ZTele:slim-buster
 
-#clonning repo
+#clonning repo 
 RUN git clone https://github.com/Ksidhdnkddbos/ZTele.git /root/zlzl
-#working directory
+#working directory 
 WORKDIR /root/zlzl
 
 # Install requirements
