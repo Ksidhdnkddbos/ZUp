@@ -11,9 +11,9 @@ beautifulsoup4
 cloudscraper
 colour
 cowpy
-ffmpeg-python
 DateTime
 emoji==1.7.0
+ffmpeg-python
 geopy
 gitpython
 google-api-python-client
@@ -35,7 +35,7 @@ lottie
 lyricsgenius
 markdown
 motor
-moviepy==1.0.3  # تحديد الإصدار
+moviepy==1.0.3
 nekos.py
 opentele
 Pillow
